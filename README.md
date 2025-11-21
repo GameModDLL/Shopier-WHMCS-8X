@@ -4,8 +4,8 @@
 
 | Dil / Language | Bağlantı / Link |
 | :--- | :--- |
-| **Türkçe (TR)** | [Türkçe Açıklama](#türkçe-açıklama) |
-| **English (EN)** | [English Description](#english-description) |
+| **Türkçe (TR)** | [Türkçe Açıklama](/TR-Readme.md) |
+| **English (EN)** | [English Description](/EN-Readme.md) |
 
 ***
 
