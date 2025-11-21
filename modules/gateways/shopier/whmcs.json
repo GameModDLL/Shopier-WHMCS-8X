@@ -1,0 +1,33 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "shopier",
+    "license": "MIT",
+    "category": "Payment Gateways",
+    "description": {
+        "name": "Shopier Ödeme Ağ Geçidi",
+        "tagline": "Kredi kartı ve banka kartı ile güvenli online ödeme alın.",
+        "long": "Bu modül, WHMCS 8.x ve üzeri sürümler için Shopier entegrasyonunu sağlar. Gömülü (iframe) ödeme deneyimi ve otomatik fatura takibi sunar. Kurulum ve kullanım için gerekli tüm API ve Callback ayarları mevcuttur.",
+        "features": [
+            "WHMCS 8.x ve Üzeri Uyumlu",
+            "Gömülü (Iframe) Ödeme Deneyimi",
+            "Otomatik Fatura Güncelleme (Callback)",
+            "Güvenli İmza Doğrulama"
+        ]
+    },
+    "support": {
+        "homepage": "https:\/\/www.github.com\/GameModDLL\/Shopier-WHMCS-8X", 
+        "learn_more": "https:\/\/github.com\/GameModDLL\/Shopier-WHMCS-8X\/blob\/main\/README.md", 
+        "email": "bedirhanalan01@gmail.com", 
+        "support_url": "https:\/\/github.com\/GameModDLL\/Shopier-WHMCS-8X\/issues"
+    },
+    "logo": {
+        "filename": "logo.jpg"
+    },
+    "authors": [
+        {
+            "name": "GameModDLL - GITHUB PUBLİC",
+            "homepage": "https://github.com/GameModDLL/Shopier-WHMCS-8X"
+        }
+    ]
+}
